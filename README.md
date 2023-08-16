@@ -2,7 +2,7 @@
 <h2 align="center">Project 1: Writing a Data Scientist Blog Post</h2>
 
 ## Table of Contents
-- [Udacity - Data Scientist Nanodegree Program](#udacity---data-scientist-nanodegree-program)
+- Udacity - Data Scientist Nanodegree Program
   - [Table of Contents](#table-of-contents)
   - [Installation ](#installation-)
   - [Project Motivation ](#project-motivation-)
