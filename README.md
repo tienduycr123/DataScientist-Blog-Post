@@ -28,7 +28,7 @@ In the current economic downturn and development of artificial intelligence, it 
 - What is the wanted programming language people who currently working with Python, JavaScript choose?
 
 ## Results <a name="Results"></a>
-Overview of data, how to handle data errors and clean data. Then analyze and draw conclusions located in the following [blog](https://medium.com/@betu.abhishek20182/stack-overflow-survey-in-india-f2a7a63be7e5?sk=d1ce1941c932b288f21b89578511dee2)
+Overview of data, how to handle data errors and clean data. Then analyze and draw conclusions located in the following [blog](https://medium.com/@duypt10/trends-in-working-in-the-information-technology-field-in-canada-daeedb7da869)
 
 ## Licensing, Authors, Acknowledgements<a name="Licensing"></a>
 We ought to give credit to Stackoverflow for the great data. Licensing for the data and different descriptive statistics can be found at the Stackoverflow [link](https://insights.stackoverflow.com/survey). 
